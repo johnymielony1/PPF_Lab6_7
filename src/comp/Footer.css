@@ -1,0 +1,12 @@
+.footer-container {
+    display: block;
+    text-align: center;
+    background-color: rgba(97, 95, 95, 0.376);
+    background-size: auto;
+    color: black;
+    width: 100%;
+    font-size: 70px;
+    position: relative;;
+    bottom:0;
+    left:0;
+}

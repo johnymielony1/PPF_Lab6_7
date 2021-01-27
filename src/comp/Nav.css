@@ -1,0 +1,14 @@
+.navbar-brand {
+    font-size: 30px;
+}
+.nav-item {
+    font-size: 20px;
+}
+.dare{
+    margin: 15px;
+    position: absolute;
+    color: #fff;
+    font-size: 15px;
+    background-color: grey;
+    right: 0;
+}

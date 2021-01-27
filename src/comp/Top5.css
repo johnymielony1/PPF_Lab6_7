@@ -1,0 +1,26 @@
+p{
+    text-align: center;
+    font-size: 40px;
+    background-color: rgba(97, 95, 95, 0.445);
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    object-fit: contain;
+}
+h2{
+    text-align: center;
+}
+.top5-container {
+    height: 100%;
+    display: block;
+    text-align: center;
+    background-color: rgb(139, 139, 139);
+    color: black;
+    bottom: 0;
+    /* position: sticky;  */
+    height:116vh;   
+    
+}

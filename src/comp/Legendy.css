@@ -1,0 +1,27 @@
+.legendy-container {
+    text-align: center;
+    background-color: rgba(97, 95, 95, 0.445);
+    background-position: center;
+    color: black;
+    width: 1000px;
+    margin: auto;
+    height: fit-content;
+}
+img {
+    width: 1000px;
+    height: 700px;
+    max-height: 900px;
+    object-fit: cover;
+}
+.background{ 
+    background-color: rgba(97, 95, 95, 0.445);
+    height: 100%;
+    width: 100%;
+}
+.opis{
+    /* margin-top: 100px; */
+    border: 1px solid black;
+    width: 1000px;
+    text-align: center;
+    margin: auto;
+}
